@@ -1,0 +1,4 @@
+repository "UniversityProject@jackdan1e1s@cloud"
+  path "/"
+    br "/main"
+    co "/main"
